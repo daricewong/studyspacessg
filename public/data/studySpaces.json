@@ -1,0 +1,94 @@
+{
+  "studySpaces": [
+    {
+      "id": 1,
+      "division": "West Coast",
+      "name": "West Coast Heights RN",
+      "address": "511 West Coast Dr #01-343 S120511",
+      "openingHours": "Every Monday & Friday (Except Public Holidays) from 2pm to 5pm & 6.30pm to 9.30pm",
+      "email": "felicia_lor_from.tp@pa.gov.sg",
+      "additionalInfo": "Air-Conditioning Room, Tables & Chairs, Wireless @SG Connection"
+    },
+    {
+      "id": 2,
+      "division": "West Coast",
+      "name": "West Coast Ville RN",
+      "address": "608 Clementi West St 1 #01-89 S120608",
+      "openingHours": "Every Monday & Friday (Except Public Holidays) from 7pm to 9pm",
+      "email": "pannerselvam_dharmalingam@pa.gov.sg",
+      "additionalInfo": "Air-Conditioning Room, Tables & Chairs, Wireless @SG Connection"
+    },
+    {
+      "id": 3,
+      "division": "West Coast",
+      "name": "West Coast Green RN",
+      "address": "708 Clementi West St 2 #01-323 S120708",
+      "openingHours": "Every Monday & Friday (Except Public Holidays) from 2pm to 5pm & 6.30pm to 9.30pm",
+      "email": "Lee_Meng_WONG_from.TP@pa.gov.sg",
+      "additionalInfo": "Air-Conditioning Room, Tables & Chairs, Wireless @SG Connection"
+    },
+    {
+      "id": 4,
+      "division": "West Coast",
+      "name": "West Coast Vista RN",
+      "address": "731 Clementi West St 2 #01-296 S120731",
+      "openingHours": "Every Monday & Friday (Except Public Holidays) from 2pm to 5pm & 6.30pm to 9.30pm",
+      "email": "Lai_Ping_LOO_from.TP@pa.gov.sg",
+      "additionalInfo": "Air-Conditioning Room, Tables & Chairs, Wireless @SG Connection"
+    },
+    {
+      "id": 5,
+      "division": "West Coast",
+      "name": "West Coast CC - Our West Coast Library",
+      "address": "2 Clementi West Street 2 S129605",
+      "openingHours": "Daily from 10am – 6pm (except PH)",
+      "email": "jason_kwo@pa.gov.sg",
+      "additionalInfo": "Air-Conditioning Room, Tables & Chairs, Wireless @SG Connection"
+    },
+    {
+      "id": 6,
+      "division": "Chua Chu Kang",
+      "name": "Chua Chu Kang CC",
+      "address": "35 Teck Whye Avenue, Singapore 688892 Level 2 open study corner",
+      "openingHours": "7 Day, Mon to Sun, 10am-10pm Except PH",
+      "email": "6765 5001",
+      "additionalInfo": ""
+    },
+    {
+      "id": 7,
+      "division": "Jurong Central",
+      "name": "Jurong Central Zone A RN",
+      "address": "475 Jurong West St 41 #01-384 S640475",
+      "openingHours": "Every Tue to Fri / 2pm to 5.30pm",
+      "email": "adeline_chew_from.tp@pa.gov.sg",
+      "additionalInfo": "conducive study space"
+    },
+    {
+      "id": 8,
+      "division": "Jurong Central",
+      "name": "Jurong Central Zone B RN",
+      "address": "423 Jurong West Ave 1 #01-218 S640423",
+      "openingHours": "Every Tue & Thurs to Sat / 2pm to 6pm",
+      "email": "er_tiam_woo_from.tp@pa.gov.sg",
+      "additionalInfo": "conducive study space"
+    },
+    {
+      "id": 9,
+      "division": "Jurong Central",
+      "name": "Jurong Central Zone D RN",
+      "address": "340 Jurong East Ave 1 #01-1662 S600340",
+      "openingHours": "Every Tue to Sat / 2pm to 5pm",
+      "email": "nyuk_lian_ho_from.tp@pa.gov.sg",
+      "additionalInfo": "conducive study space"
+    },
+    {
+      "id": 10,
+      "division": "Nee Soon Central",
+      "name": "Nee Soon Central CC",
+      "address": "1 Northpoint Drive #01-201 S768019",
+      "openingHours": "Daily, 10am – 9pm",
+      "email": "Nil",
+      "additionalInfo": ""
+    }
+  ]
+}
